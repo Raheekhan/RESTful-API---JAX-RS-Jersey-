@@ -9,7 +9,7 @@ public class DatabaseClass {
 	
 	/**
 	 * Usually implementing JDBC or similar database
-	 * but for simplicity and practice with Jax RS
+	 * but for simplicity and practice with JAX-RS
 	 * Just using HashMap to act as a 'Database'
 	 */
 
